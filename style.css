@@ -9,12 +9,15 @@
 }
 
 
-/* main div */
+/* main div css*/
+
 
 .main-div{
     height: 1000px;
-    width: 200px;
+   
 }
+
+/* package css */
 
 /* footer css */
 .context-dark, .bg-gray-dark, .bg-primary {
