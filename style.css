@@ -15,11 +15,25 @@
 /* slide img css */
 
 .slide-img{
-    width: 1000px;
+   width: 1310px;
     height: 400px;
+    
+    /* margin-left: 17px;
+    margin-right: 1000px; */
+}
+
+
+.slider-div{
+    
+    max-width: 1310px;
+    /* margin-right: 180px; */
 }
 
 /* package css */
+.package-div{
+    /* padding-left: 160px; */
+}
+
 
 * {
     box-sizing: border-box;
@@ -216,3 +230,4 @@ ul, ol {
     visibility: hidden;
     transition: .22s ease;
 }
+
