@@ -34,6 +34,9 @@
     /* padding-left: 160px; */
 }
 
+.display-package-div{
+    display: none;
+}
 
 * {
     box-sizing: border-box;
@@ -231,3 +234,39 @@ ul, ol {
     transition: .22s ease;
 }
 
+.display-image{
+    width: 250px;
+    height: 350px;
+    border: 1px solid gray;
+    margin: 10px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px green;
+    cursor: "pointer";
+    
+    
+    
+    
+   
+}
+
+
+.display-image img{
+    width: 250px;
+    height: 350px;
+   
+}
+
+.display-h-image{
+    
+    border: 1px solid gray;
+    margin: 10px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px green;
+    cursor: "pointer";
+}
+
+.display-h-image img{
+    width: 350px;
+    height: 250px;
+    
+}
